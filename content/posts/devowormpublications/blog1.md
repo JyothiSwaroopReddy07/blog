@@ -5,8 +5,6 @@ date = "2023-03-03"
 +++
 
 
-# Ancient Embryogenesis and Evolutionary Origins
-
 
 <p align="center">
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDP4z7YWztesQ55jqA3tKhoT0bX0LBMGRxnfyeYoVfqlIWjZ4-qLVnt5Zj3pXKg_IuD_HmQoFtgcObBtkzc9iF-GXodw_wEMMPM3ve9sqVc8NqR49jUC9vrDGqFAL-BhFF87dZi_Y0GVk7cccoIF7GB79TAWt9F1AEKHRkU5wMcy0XJIbsrs7Npl6o/s320/darwin-embryo.png" alt='Darwin Image'/>

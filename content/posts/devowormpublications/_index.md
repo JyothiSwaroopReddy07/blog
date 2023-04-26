@@ -1,3 +1,3 @@
 ---
-title: "Devoworm Publications"
+title: "Devoworm Blog posts"
 ---
